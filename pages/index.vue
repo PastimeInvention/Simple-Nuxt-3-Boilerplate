@@ -1,3 +1,5 @@
 <template>
-  <div>Simple Nuxt 3 Boilerplate</div>
+  <div>{{ $t('welcome') }}</div>
 </template>
+
+<script lang="ts" setup></script>
