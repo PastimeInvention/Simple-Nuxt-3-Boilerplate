@@ -1,6 +1,5 @@
 # Simple Nuxt 3 Boilerplate
 
-
 ## Setup
 
 Make sure to install the dependencies:
@@ -51,5 +50,7 @@ yarn run preview
 - [Unocss](https://github.com/antfu/unocss)
 - [Pinia](https://pinia.vuejs.org/)
 - [seo-kit](github.com/harlan-zw/nuxt-seo-kit)
+- [nuxt-i18n](https://github.com/nuxt-modules/i18n)
 - Eslint + Prettier
 - Husky + Lint Staged
+  

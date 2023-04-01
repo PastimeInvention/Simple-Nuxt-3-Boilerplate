@@ -5,9 +5,9 @@
     "node": true
   },
   "extends": [
+    "plugin:unocss/recommended",
     "plugin:vue/base",
     "plugin:vue/vue3-essential",
-    "plugin:tailwindcss/recommended",
     "@nuxtjs/eslint-config-typescript",
     "plugin:prettier/recommended"
   ],
