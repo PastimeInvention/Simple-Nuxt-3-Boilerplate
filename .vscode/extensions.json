@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "johnsoncodehk.volar",
+    "oderwat.indent-rainbow",
+    "esbenp.prettier-vscode",
+    "misterj.vue-volar-extention-pack",
+    "nitayneeman.playwright-snippets"
+  ]
+}
