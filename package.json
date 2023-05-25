@@ -12,30 +12,30 @@
     "lintfix": "eslint --fix --ext \".ts,.js,.vue\" --ignore-path .gitignore . --quiet"
   },
   "devDependencies": {
-    "@nuxt/devtools": "^0.3.1",
+    "@nuxt/devtools": "^0.3.2",
     "@nuxtjs/eslint-config-typescript": "^12.0.0",
-    "@nuxtjs/i18n": "^8.0.0-beta.10",
-    "@pinia/nuxt": "^0.4.7",
-    "@unocss/core": "^0.50.6",
-    "@unocss/nuxt": "^0.50.6",
-    "@unocss/reset": "^0.50.6",
+    "@nuxtjs/i18n": "^8.0.0-beta.12",
+    "@pinia/nuxt": "^0.4.11",
+    "@unocss/core": "^0.50.8",
+    "@unocss/nuxt": "^0.50.8",
+    "@unocss/reset": "^0.50.8",
     "@vueuse/nuxt": "^9.13.0",
-    "eslint": "^8.37.0",
+    "eslint": "^8.41.0",
     "eslint-config-prettier": "^8.8.0",
     "eslint-plugin-prettier": "^4.2.1",
     "eslint-plugin-unocss": "^0.0.1-alpha.3",
     "husky": "^8.0.3",
-    "lint-staged": "^13.2.0",
-    "nuxt": "^3.3.2",
-    "prettier": "^2.8.7",
-    "prettier-plugin-tailwindcss": "^0.2.6",
-    "typescript": "^5.0.3"
+    "lint-staged": "^13.2.2",
+    "nuxt": "^3.5.1",
+    "prettier": "^2.8.8",
+    "prettier-plugin-tailwindcss": "^0.2.8",
+    "typescript": "^5.0.4"
   },
   "dependencies": {
-    "nuxt-headlessui": "^1.1.1",
+    "nuxt-headlessui": "^1.1.4",
     "nuxt-icon": "^0.3.3",
-    "nuxt-seo-kit": "^1.3.5",
-    "pinia": "^2.0.33"
+    "nuxt-seo-kit": "^1.3.8",
+    "pinia": "^2.1.3"
   },
   "lint-staged": {
     "**/*.{js,ts,vue}": [
